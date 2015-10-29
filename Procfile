@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n Jeeves
+web: bin/hubot -a slack -n jeeves
