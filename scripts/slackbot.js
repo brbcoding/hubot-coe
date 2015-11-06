@@ -1,6 +1,5 @@
-# Description:
-#   Respond to Slackbot
-
+// Description:
+//   Respond to Slackbot
 
 var insults = [
   "lol u stoopid.",
